@@ -22,6 +22,7 @@ public class Usinglog4j {
 			log.error("Dont divide any number by using Zero", e);
 			
 		}
+		log.info("Message");
 	}
 
 }
